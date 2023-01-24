@@ -1,0 +1,8 @@
+To install MySQL on Ubuntu using the terminal, you can follow these steps:
+
+Update the package list:
+sudo apt-get update
+Install the MySQL server package:
+sudo apt-get install mysql-server
+Run the MySQL secure installation script to set the root password and configure other security settings:
+.....................check the rest of the process in readme file
